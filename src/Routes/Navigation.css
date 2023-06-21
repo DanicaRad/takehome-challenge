@@ -1,0 +1,12 @@
+
+.NavbarBrand {
+  font-weight: bold;
+}
+
+.nav-item a {
+  color: lightgray;
+}
+
+.nav-item a:hover {
+  color: white;
+}
